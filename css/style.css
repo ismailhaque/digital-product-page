@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+/* col_left */
+.col_left .live_btn a{
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px 45px;
+    color: #fff;
+}
+.col_left .live_btn a i{
+    font-size: 20px;
+    color: #fff;
+    padding-left: 15px;
+}
+.col_left p{
+    font-size: 25px;
+    font-weight: 200;
+    color: #7a7a7a;
+}
+
+/* col_right */
+.col_right ul li i{
+    color: #7a7a7a;
+    font-size: 25px;
+    font-weight: 100;
+    line-height: 30px;
+    padding-right: 8px;
+}
+.col_right ul li{
+    color: #7a7a7a;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 30px;
+}
+.col_right ul{
+    padding: 0;
+}
+.col_right .add-to-cart-btn a{
+    font-size: 20px;
+    color: #fff;
+    background: #7AA93C;
+}
+.col_right .add-to-cart-btn a i{
+    font-size: 25px;
+    padding-right: 20px;
+}
+.col_right .regular_price{
+    font-size: 40px;
+    color: #7AA93C;
+}
+.col_right h3{
+    font-size: 40px;
+    font-weight: 900;
+}
+.col_right h4{
+    font-size: 30px;
+    font-weight: 900;
+}
+.col_right .last-content h5{
+    font-size: 20px;
+    font-weight: 500;
+    padding-right: 50px;
+}
+.col_right .last-content p{
+    font-size: 20px;
+    text-align: right;
+    font-weight: 100;
+    color: #7a7a7a;
+}
+.col_right .last-content a{
+    font-size: 20px;
+    text-align: right;
+    font-weight: 100;
+}
