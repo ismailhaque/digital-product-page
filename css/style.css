@@ -64,6 +64,10 @@ a{
     font-size: 30px;
     font-weight: 900;
 }
+.col_right h4{
+    font-size: 25px;
+    font-weight: 700;
+}
 .col_right .last-content h5{
     font-size: 18px;
     font-weight: 500;
